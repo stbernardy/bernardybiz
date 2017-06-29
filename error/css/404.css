@@ -1,0 +1,45 @@
+@import url(http://fonts.googleapis.com/css?family=Inconsolata);
+html,
+body {
+  background: #000;
+  font-family: 'Inconsolata', sans-serif;
+}
+.wrap {
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 200px;
+  margin-left: -200px;
+  margin-top: -100px;
+  position: absolute;
+}
+span.white {
+  color: #fff;
+}
+red {}
+span.blue {
+  color: #48beef;
+}
+span.comment {
+  color: #7f8c8d;
+}
+span.load {
+  color: #f39c12;
+}
+span.red {
+  color: #FF0000;
+}
+
+span.purple {
+  color: #800080
+}
+
+span.yellow {
+  color: #FBEC5D;
+}
+
+span.grey {
+  color: #8B8878
+}
+
+a { text-decoration: none; }
